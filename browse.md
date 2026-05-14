@@ -10,3 +10,5 @@
 ![favicon](pages/mega.nz/20260514_151418/media/favicon.ico) 3- [mega.nz](pages/mega.nz/20260514_151418/index.md)
 
 ![favicon](pages/niermodding.com/20260514_160136/media/favicon.ico) 4- [niermodding.com](pages/niermodding.com/20260514_160136/index.md)
+
+![favicon](pages/nexusmods.com/20260514_160806/media/favicon.png) 5- [nexusmods.com](pages/nexusmods.com/20260514_160806/index.md)
