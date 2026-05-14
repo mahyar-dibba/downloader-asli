@@ -16,3 +16,5 @@
 ![favicon](pages/pornhub.com/20260514_162319/media/favicon.ico) 6- [pornhub.com](pages/pornhub.com/20260514_162319/index.md)
 
 ![favicon](pages/nexusmods.com/20260514_170456/media/favicon.png) 7- [nexusmods.com](pages/nexusmods.com/20260514_170456/index.md)
+
+![favicon](pages/dlcfun.com/20260514_170824/media/favicon.png) 8- [dlcfun.com](pages/dlcfun.com/20260514_170824/index.md)
