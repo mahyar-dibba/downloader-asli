@@ -1,0 +1,4 @@
+/favicon.ico?v=3
+/secureboot.js?r=1778715476
+about:blank
+https://chrome.google.com/webstore/detail/bigefpfhnfcobdlfbedofhhaibnlghod
